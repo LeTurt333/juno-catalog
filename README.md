@@ -1,8 +1,9 @@
-# juno-catalog
+# Juno Catalog
 
-Tools / Education / Entertainment?
+Section 1-TOOLING
+Section 2-EDUCATION
 
-# TOOLING
+# 1-TOOLING
 
 ### TOOLING: Block Explorers
 
@@ -41,7 +42,7 @@ Tools / Education / Entertainment?
 
 ---
 
-# Education
+# 2-Education
 
 ### EDUCATION: Docs/Reading
 
