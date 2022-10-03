@@ -34,8 +34,9 @@ Section 2-EDUCATION
 
 ---
 
-### TOOLING: Frontend/Typescript Tooling
+### TOOLING: Frontend Tooling
 
+- [Create-Cosmos-App](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command
 - [Cosmodal](https://github.com/NoahSaso/cosmodal) - A wallet connector with mobile WalletConnect support for the Cosmos ecosystem
 - [Graz](https://github.com/strangelove-ventures/graz) - A collection of react hooks for the Cosmos ecosystem
 - [TS-Codegen](https://github.com/CosmWasm/ts-codegen) - Converts your CosmWasm contracts into dev-friendly TypeScript classes
@@ -63,6 +64,7 @@ Section 2-EDUCATION
 **Frontend**
 
 - [Starter-Kit-UI](https://github.com/CosmosContracts/starter-kit) - A minimal frontend dApp template
+- [Create-Cosmos-App](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command
 
 
 
