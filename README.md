@@ -1,11 +1,11 @@
 # Juno Catalog
 
-- Smart Contract Tools
-- Front End Tools
-- APIs
-- Block Explorers
-- Education
-- Templates
+- [Smart Contract Tools](https://github.com/LeTurt333/juno-catalog/blob/main/README.md#smart-contract-tools)
+- [Front End Tools](https://github.com/LeTurt333/juno-catalog/blob/main/README.md#front-end-tools)
+- [APIs](https://github.com/LeTurt333/juno-catalog/blob/main/README.md#apis)
+- [Block Explorers](https://github.com/LeTurt333/juno-catalog/blob/main/README.md#block-explorers)
+- [Education](https://github.com/LeTurt333/juno-catalog/blob/main/README.md#education)
+- [Templates](https://github.com/LeTurt333/juno-catalog/blob/main/README.md#templates)
 
 # Smart Contract Tools
 
